@@ -28,19 +28,19 @@ As a whole, charter schools out-performed the public district schools across all
 
 ---
 ## 🏫 DataFrames <a name="part-1"></a>
-#### Scores by School Spending
+#### Scores by School Spending:
 <p align="center">
 <img src="images/spending_range_per_student.png"  >
 </p>
 As a whole, schools with higher budgets, did not yield better test results. By contrast, schools with higher spending 645-680 per student actually underperformed compared to schools with smaller budgets (585 per student).
 
-#### Scores by School Size
+#### Scores by School Size:
 <p align="center">
 <img src="images/school_size.png" alt="df"   >
 </p>
 As a whole, smaller and medium sized schools dramatically out-performed large sized schools on passing math performances (89-91% passing vs 58%).
 
-#### Scores by School Type
+#### Scores by School Type:
 <p align="center">
 <img src="images/school_type.png" alt="df"  >
 </p>
